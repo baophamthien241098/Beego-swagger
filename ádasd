@@ -1,0 +1,59 @@
+What is the difference between a primary key and a foreign key? Give an example of a scenario where you would use each.
+Explain the ACID properties of a database. Why are they important, and what implications do they have for database design?
+How would you optimize a slow-performing query? What tools and techniques would you use?
+Describe a schema migration process. What are some common pitfalls that you should watch out for?
+What are some common database indexing strategies? How do they differ, and when would you use each one?
+How would you ensure the consistency of data across multiple servers in a distributed database environment?
+Describe your experience with database backup and recovery procedures. What tools have you used for this, and what strategies have you found to be effective?
+Have you ever worked with NoSQL databases? How do they differ from traditional relational databases, and what are some use cases where you would choose one over the other?
+How do you ensure the security of sensitive data in a database environment? What measures have you taken in the past to protect against unauthorized access or data breaches?
+What is a database?
+What are the different types of databases?
+What is the difference between a relational database and a non-relational database?
+What is a primary key in a database?
+What is a foreign key in a database?
+What is normalization in database design?
+What is denormalization in database design?
+What are the different types of joins in SQL?
+What is an index in a database?
+What is a clustered index and a non-clustered index?
+What is the difference between a view and a table?
+What is a stored procedure?
+What is a trigger?
+What is ACID in database transactions?
+What is a database transaction and why is it important?
+What is a database backup and restore?
+How do you optimize a database?
+What is a NoSQL database?
+What are some popular NoSQL databases?
+What are the advantages and disadvantages of using a NoSQL database?
+What is Big Data?
+What are some popular Big Data technologies?
+What is Hadoop?
+What is a data warehouse?
+What is ETL and how does it relate to data warehousing?
+What is data mining and how is it used in data analysis?
+What is a data model?
+What is the difference between OLAP and OLTP?
+What is a schema in a database?
+How do you manage database security?
+What are the different levels of database security?
+What is database replication and how is it used?
+What is a database transaction log?
+What is a database schema migration?
+How do you troubleshoot database performance issues?
+What is a database deadlock and how do you prevent it?
+What is a database schema and how is it used in database design?
+What are some best practices for database design?
+How do you handle database backups and disaster recovery?
+What is a database connection pool and how does it work?
+How do you design a scalable database architecture?
+What are some common SQL injection attacks and how do you prevent them?
+What is the role of a database administrator?
+What are some tools used for database administration?
+How do you monitor and tune a database for optimal performance?
+What is a database partitioning and how is it used?
+What are some common database performance metrics and how do you measure them?
+What is data integrity and how do you ensure it in a database?
+What is a database query and how do you write efficient queries?
+How do you perform database backups and restores?
